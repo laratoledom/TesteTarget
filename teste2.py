@@ -12,9 +12,10 @@ n_1 = 0
 n_2 = 1
 n_3 = n_1 + n_2
 
-while n_3 <= n:
+while n_3 < n:
     n_1 = n_2
     n_2 = n_3
+    n_3 = n_1 + n_2
 
 if n_3 == n:
     print("O número informado pertence à sequência")
