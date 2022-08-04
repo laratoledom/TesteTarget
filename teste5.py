@@ -1,3 +1,5 @@
+#Inversão de caracteres de uma string
+
 # A entrada ficará a critério do usuário para que qualquer palavra possa ser submetida ao programa.
 # A lista "palavra_elementos" foi criada para que cada letra da palavra escolhida possa ser acessada como um único elemento.
 # Também foi criada uma string vazia, "palavra_invertida", que irá juntar letra por letra da palavra invertida.
