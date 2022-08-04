@@ -1,3 +1,5 @@
+#Percentual de cada estado
+
 #Foi calculado o valor total do faturamento, que representa 100% do mesmo, e a partir disso, o percentual de contribuição de cada estado.
 SP = 67836.43
 RJ = 36678.66
