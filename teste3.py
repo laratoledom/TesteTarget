@@ -1,3 +1,5 @@
+#Faturamento de uma distribuidora
+
 # Para essa atividade, foram utilizados os dados do arquivo json.
 # Dados os dias do mês e seus respectivos faturamentos, foi montado um dicionário cuja chave representa os dias do mês e os
 # valores das chaves representam o faturamento naquele dia.
