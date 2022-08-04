@@ -80,5 +80,4 @@ print("O maior valor de faturamento diário ocorrido esse mês foi:", maior_valo
 print("Número de dias no mês em que o valor de faturamento diário foi superior à média mensal:", num_dias)
 
 
-# Observação: Caso fossem considerados os dias cujo valor de faturamento são iguais a zero, o menor valor de faturamento
-# diário ocorrido no mês teria sido zero.
+# Observação: Caso fossem considerados os dias cujo valor de faturamento são iguais a zero, o menor valor de faturamentodiário ocorrido no mês teria sido zero.
